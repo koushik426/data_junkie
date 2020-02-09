@@ -1,0 +1,8 @@
+This project aims to build a predictive model that can effectively classify messages under sapm / ham categories. 
+
+##Tech stack
+R
+tm
+e1071
+Rstudio
+rvest
