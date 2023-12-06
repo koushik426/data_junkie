@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&family=Figtree:wght@300&family=News+Cycle&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&family=Figtree:wght@300&family=News+Cycle&family=Poppins&display=swap');
 
 :root {
-    --ts-var-root-font-family: 'News Cycle', sans-serif;
+    --ts-var-root-font-family: 'Poppins', sans-serif;
 }
